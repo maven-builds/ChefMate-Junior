@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #bafdff;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* disables scrolling */
+  height: 100%;
+}
+
+#logo
+{
+  position: relative;
+  top: -855px;
+  right: 50px;
+}
+
+#maven-builds
+{
+  position: absolute;
+  top: -215px;
+  right: -475px
+}
+
+#recipes
+{
+  position: absolute;
+  top: 180px;
+  right: 425px;
+}
+
+#mixes
+{
+  position: absolute;
+  top: 162px;
+  right: 175px;
+}
+
+#support
+{
+  position: absolute;
+  top: 180px;
+  right: -115px;
+}
